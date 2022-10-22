@@ -60,7 +60,7 @@ return;
 }
 else
 {
-printf("Element deleted from queue : %dn", queue_array[front]);
+printf("Elemant deleted from queue : %dn", queue_array[front]);
 front = front + 1;
 }
 }
